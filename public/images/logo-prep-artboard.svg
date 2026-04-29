@@ -1,0 +1,59 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1200" height="800" fill="#0E0E0D"/>
+  <text x="40" y="40" font-family="monospace" font-size="11" fill="#444">KANSO WAY — Logo Preparation Artboard</text>
+
+  <!-- Version 1: Full wordmark dark bg -->
+  <rect x="80" y="80" width="320" height="120" fill="#161614" stroke="#2A2A28" stroke-width="1"/>
+  <text x="100" y="120" font-family="Georgia, serif" font-size="11" fill="#C8B89A" letter-spacing="3">KANSO WAY</text>
+  <text x="100" y="145" font-family="Georgia, serif" font-size="24" font-weight="300" fill="#E8E4DC" letter-spacing="6">KANSO WAY</text>
+  <text x="100" y="170" font-family="monospace" font-size="9" fill="#444">Full wordmark / Dark bg / Primary</text>
+
+  <!-- Version 2: Full wordmark light bg -->
+  <rect x="440" y="80" width="320" height="120" fill="#F5F3EF" stroke="#E0DDD8" stroke-width="1"/>
+  <text x="460" y="120" font-family="Georgia, serif" font-size="11" fill="#9A8A72" letter-spacing="3">KANSO WAY</text>
+  <text x="460" y="145" font-family="Georgia, serif" font-size="24" font-weight="300" fill="#1A1A18" letter-spacing="6">KANSO WAY</text>
+  <text x="460" y="170" font-family="monospace" font-size="9" fill="#888">Full wordmark / Light bg</text>
+
+  <!-- Version 3: Icon only — Chakana mark -->
+  <rect x="800" y="80" width="320" height="120" fill="#161614" stroke="#2A2A28" stroke-width="1"/>
+  <path d="M930 107 H970 V120 H983 V147 H970 V160 H930 V147 H917 V120 H930 Z" stroke="#C8B89A" stroke-width="2" fill="none"/>
+  <circle cx="950" cy="133" r="8" stroke="#C8B89A" stroke-width="1.5"/>
+  <text x="800" y="180" font-family="monospace" font-size="9" fill="#444">   Icon mark only / Favicon / Avatar</text>
+
+  <!-- Version 4: Stacked -->
+  <rect x="80" y="240" width="320" height="160" fill="#161614" stroke="#2A2A28" stroke-width="1"/>
+  <path d="M210 270 H250 V280 H260 V300 H250 V310 H210 V300 H200 V280 H210 Z" stroke="#C8B89A" stroke-width="1.5" fill="none"/>
+  <circle cx="230" cy="290" r="6" stroke="#C8B89A" stroke-width="1"/>
+  <text x="175" y="340" font-family="Georgia, serif" font-size="18" font-weight="300" fill="#E8E4DC" letter-spacing="5">KANSO WAY</text>
+  <text x="155" y="358" font-family="monospace" font-size="8" fill="#C8B89A" letter-spacing="3">THE LUXURY OF FOCUS</text>
+  <text x="100" y="390" font-family="monospace" font-size="9" fill="#444">Stacked / With tagline</text>
+
+  <!-- Minimum sizes -->
+  <rect x="440" y="240" width="320" height="160" fill="#161614" stroke="#2A2A28" stroke-width="1"/>
+  <text x="460" y="270" font-family="monospace" font-size="10" fill="#C8B89A">Minimum sizes:</text>
+  <text x="460" y="295" font-family="monospace" font-size="9" fill="#888">Wordmark:   min 120px wide</text>
+  <text x="460" y="312" font-family="monospace" font-size="9" fill="#888">Stacked:    min 80px wide</text>
+  <text x="460" y="329" font-family="monospace" font-size="9" fill="#888">Icon only:  min 24px</text>
+  <text x="460" y="346" font-family="monospace" font-size="9" fill="#888">Favicon:    16px / 32px / 64px</text>
+  <text x="460" y="370" font-family="monospace" font-size="10" fill="#C8B89A">Clear space:</text>
+  <text x="460" y="387" font-family="monospace" font-size="9" fill="#888">= height of letter K on all sides</text>
+
+  <!-- Color palette -->
+  <rect x="800" y="240" width="320" height="160" fill="#161614" stroke="#2A2A28" stroke-width="1"/>
+  <text x="820" y="268" font-family="monospace" font-size="10" fill="#C8B89A">Brand Colors:</text>
+  <rect x="820" y="280" width="40" height="40" fill="#C8B89A"/>
+  <rect x="872" y="280" width="40" height="40" fill="#E8E4DC"/>
+  <rect x="924" y="280" width="40" height="40" fill="#0E0E0D" stroke="#2A2A28"/>
+  <rect x="976" y="280" width="40" height="40" fill="#161614" stroke="#2A2A28"/>
+  <text x="820" y="340" font-family="monospace" font-size="8" fill="#888">#C8B89A   #E8E4DC   #0E0E0D   #161614</text>
+  <text x="820" y="354" font-family="monospace" font-size="8" fill="#666"> Gold      Off-Wht   Deep Blk  Surface</text>
+  <text x="820" y="380" font-family="monospace" font-size="9" fill="#888">Font: Cormorant Garamond 300 / Inter 300-500</text>
+
+  <!-- File formats note -->
+  <rect x="80" y="520" width="1040" height="100" fill="#111" stroke="#2A2A28" stroke-width="1"/>
+  <text x="100" y="548" font-family="monospace" font-size="10" fill="#C8B89A">Required Logo Files to Create:</text>
+  <text x="100" y="568" font-family="monospace" font-size="9" fill="#888">logo.svg (vector master)  ·  logo-light.svg  ·  logo@2x.png (640px)  ·  logo@1x.png (320px)</text>
+  <text x="100" y="586" font-family="monospace" font-size="9" fill="#888">favicon.ico (16/32/48px)  ·  apple-touch-icon.png (180x180)  ·  og-image.jpg (1200x630)  ·  logo-square.png (400x400)</text>
+  <text x="100" y="604" font-family="monospace" font-size="9" fill="#444">Recommended tool: Figma / Illustrator → export all variants from single source SVG</text>
+</svg>
