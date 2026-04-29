@@ -1,2 +1,0 @@
-# Kansoway
-Kanso Way
