@@ -1,9 +1,0 @@
-<svg width="160" height="28" viewBox="0 0 160 28" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <!-- K symbol: simple stepped cross (Chakana-inspired) -->
-  <rect x="2" y="8" width="3" height="12" fill="#C8B89A"/>
-  <line x1="5" y1="14" x2="14" y2="8" stroke="#C8B89A" stroke-width="2.5" stroke-linecap="round"/>
-  <line x1="5" y1="14" x2="14" y2="20" stroke="#C8B89A" stroke-width="2.5" stroke-linecap="round"/>
-
-  <!-- KANSO WAY wordmark -->
-  <text x="22" y="19" font-family="Georgia, serif" font-size="13" font-weight="300" letter-spacing="4" fill="#E8E4DC">KANSO WAY</text>
-</svg>
