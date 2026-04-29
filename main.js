@@ -28,7 +28,7 @@ document.querySelector('.hero__visual')?.classList.add('fade-up', 'fade-up-3');
 
 // ── WAITLIST FORM → GOOGLE SHEETS ──
 // SETUP: Replace SCRIPT_URL with your Google Apps Script Web App URL
-const SCRIPT_URL = 'YOUR_GOOGLE_APPS_SCRIPT_URL';
+const SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbwbLwcRGTG88m3G8V9Iy2yS_RRJifbU-E9Qa5EzuzpVrHQwYk7Uw6iiCmND3ESYfx_vzQ/exec';
 
 const form = document.getElementById('waitlistForm');
 const msg = document.getElementById('formMessage');
